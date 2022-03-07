@@ -43,9 +43,7 @@ author: MKT
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  自己搭的一个小型博客，记录一些自己的所学所思所悟。
 
 baseurl: "/deadpool/" # the subpath of your site, e.g. /blog
 url: "https://deadvpool.github.io/deadpool/" # the base hostname & protocol for your site, e.g. https://example.com
